@@ -15,6 +15,12 @@ the used models are:
 
 ## Installation
 
+There are some needed modules which can be installed using **requirements.txt** file
+
+```bash
+pip install -r requirements.txt
+```
+
 **facenet-pytorch** can be installed using pip:
 
 ```bash
