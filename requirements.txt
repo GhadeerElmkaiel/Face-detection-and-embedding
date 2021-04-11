@@ -1,0 +1,9 @@
+opencv-python
+numpy
+easydict
+Cython
+progressbar2
+torch
+tensorboardX
+mxnet
+facenet-pytorch
